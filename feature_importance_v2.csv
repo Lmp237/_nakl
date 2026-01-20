@@ -1,0 +1,12 @@
+feature,importance
+visitors_mean_7,0.7390975
+weekday,0.087809995
+cluster,0.044327546
+visitors_lag1,0.03576255
+visitors_lag7,0.035272583
+holiday,0.03344346
+month,0.024286365
+nb_reservations,0.0
+total_reserved,0.0
+is_weekend,0.0
+res_mean_store,0.0
